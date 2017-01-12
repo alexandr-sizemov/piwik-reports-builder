@@ -1,7 +1,5 @@
 /**
- * @param  string url [piwik server url]
- * @param  string token [auth token]
- * @param  array params [list of default params]
+ * @param  Object defines piwik parametrs, requires token property
  * @return Piwik istance
  * See piwik docs for details:
  *  http://developer.piwik.org/api-reference/reporting-api
